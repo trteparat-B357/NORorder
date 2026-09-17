@@ -1,4 +1,4 @@
-name = "drink-order-app"
+name = "nororder"
 main = "src/index.ts"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
@@ -6,4 +6,4 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "DB"
 database_name = "drink-db"
-database_id = "drink-db-id"
+database_id = "0fecbf3f-fd25-4003-b2a1-b85a0089efcb"
